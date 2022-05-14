@@ -7,6 +7,11 @@ During the course of this project, I was creating a machine learning model to pr
 
 Using data manipulation, creating training and testing sets, and analyzing the models, a neural network is created. The results are explored below.
 
+## Resources
+            Data Source: charity_data.csv
+
+            Software: Jupyter Notebook
+            
 ## Results
 
 * Data Processing
